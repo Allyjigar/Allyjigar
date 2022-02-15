@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alicia 💻👩</h1>
+<h1>Hi, I'm Ally 💻👩</h1>
 <h3>Junior front end developer 🚀</h3>
 <div>
 <img align="center" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470di26998hg0vt3m2pfplfzvaj1aijjr7kunnpx2n&rid=giphy.gif&ct=g">
